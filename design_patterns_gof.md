@@ -8,15 +8,15 @@ Pattern
 Operation
 ---------
                                
- +-------+       +--------+    
- |request+-------> object |    
- +-------+       +-+----^-+    
-                   |    |      
-                   |    |      
-                   |    |      
-                +--v----+---+  
-                | operation |  
-                +-----------+
+     +-------+       +--------+    
+     |request+-------> object |    
+     +-------+       +-+----^-+    
+                       |    |      
+                       |    |      
+                       |    |      
+                    +--v----+---+  
+                    | operation |  
+                    +-----------+
 
 Defined by a signature comprised of
 - name
@@ -52,22 +52,22 @@ List
 ====
 Abstract Factory
 Adapter
-Facade
-Fly weight
-Builder
-Visitor
-Command
-Memento
-Decorator
-Proxy
-Chain of Responsibility
-Composite
-Observer
-Strategy
-Prototype
-Factory Method
-Singleton
 Bridge
+Builder
+Chain of Responsibility
+Command
+Composite
+Decorator
+Facade
+Factory Method
+Fly weight
 Iterator
-Template Method
 Mediator
+Memento
+Observer
+Prototype
+Proxy
+Singleton
+Strategy
+Template Method
+Visitor
