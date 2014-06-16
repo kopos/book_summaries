@@ -8,15 +8,15 @@ Pattern
 Operation
 ---------
                                
-     +-------+       +--------+    
-     |request+-------> object |    
-     +-------+       +-+----^-+    
-                       |    |      
-                       |    |      
-                       |    |      
-                    +--v----+---+  
-                    | operation |  
-                    +-----------+
+    +-------+       +--------+    
+    |request+-------> object |    
+    +-------+       +-+----^-+    
+                      |    |      
+                      |    |      
+                      |    |      
+                   +--v----+---+  
+                   | operation |  
+                   +-----------+
 
 Defined by a signature comprised of
 - name
