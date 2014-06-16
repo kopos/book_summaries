@@ -7,7 +7,7 @@ Pattern
 
 Operation
 ---------
-                               
+<pre>
     +-------+       +--------+    
     |request+-------> object |    
     +-------+       +-+----^-+    
@@ -17,6 +17,7 @@ Operation
                    +--v----+---+  
                    | operation |  
                    +-----------+
+</pre>
 
 Defined by a signature comprised of
 - name
