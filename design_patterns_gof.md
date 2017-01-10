@@ -26,12 +26,13 @@ Defined by a signature comprised of
 
 Class vs Type
 -------------
-Class: How the object is *implemented*
-Type: How the object behaves i.e Set of requests to which the object can *respond*
-      **An object can have many types**
+*Class*: How the object is *implemented*
 
-So an object has both Interface (type) inheritance as well as Implementation (class) inheritance.
-Interface inheritance is also called **subtyping**
+*Type*: How the object behaves i.e Set of requests to which the object can *respond*
+
+**An object can have many types**
+
+So an object has both Interface (type) inheritance as well as Implementation (class) inheritance. Interface inheritance is also called **subtyping**
 
 
 Design Patterns
@@ -49,26 +50,26 @@ By scope
 - Class
 - Object
 
-List
-====
-Abstract Factory
-Adapter
-Bridge
-Builder
-Chain of Responsibility
-Command
-Composite
-Decorator
-Facade
-Factory Method
-Fly weight
-Iterator
-Mediator
-Memento
-Observer
-Prototype
-Proxy
-Singleton
-Strategy
-Template Method
-Visitor
+List of all patterns
+====================
+- Abstract Factory
+- Adapter
+- Bridge
+- Builder
+- Chain of Responsibility
+- Command
+- Composite
+- Decorator
+- Facade
+- Factory Method
+- Fly weight
+- Iterator
+- Mediator
+- Memento
+- Observer
+- Prototype
+- Proxy
+- Singleton
+- Strategy
+- Template Method
+- Visitor
